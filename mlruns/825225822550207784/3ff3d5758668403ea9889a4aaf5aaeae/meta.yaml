@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/3ff3d5758668403ea9889a4aaf5aaeae/artifacts
+end_time: 1748423313989
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 3ff3d5758668403ea9889a4aaf5aaeae
+run_name: serious-whale-226
+run_uuid: 3ff3d5758668403ea9889a4aaf5aaeae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748423311377
+status: 4
+tags: []
+user_id: arunshukla

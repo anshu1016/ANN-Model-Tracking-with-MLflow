@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/e37844dc6e34446d85e390b4541571ad/artifacts
+end_time: 1748433172039
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: e37844dc6e34446d85e390b4541571ad
+run_name: sedate-sow-668
+run_uuid: e37844dc6e34446d85e390b4541571ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433166571
+status: 4
+tags: []
+user_id: arunshukla

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/ee0068ba65584ebc8c445e6ebe8a4871/artifacts
+end_time: 1748433206608
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: ee0068ba65584ebc8c445e6ebe8a4871
+run_name: rogue-gnu-110
+run_uuid: ee0068ba65584ebc8c445e6ebe8a4871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433201537
+status: 3
+tags: []
+user_id: arunshukla

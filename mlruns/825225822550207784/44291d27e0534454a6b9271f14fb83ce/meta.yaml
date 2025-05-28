@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/44291d27e0534454a6b9271f14fb83ce/artifacts
+end_time: 1748434005553
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 44291d27e0534454a6b9271f14fb83ce
+run_name: youthful-squid-91
+run_uuid: 44291d27e0534454a6b9271f14fb83ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433973148
+status: 3
+tags: []
+user_id: arunshukla

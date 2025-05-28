@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/51860baba17e43e38f829dc32bf1f176/artifacts
+end_time: 1748433976649
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 51860baba17e43e38f829dc32bf1f176
+run_name: angry-croc-661
+run_uuid: 51860baba17e43e38f829dc32bf1f176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433973441
+status: 3
+tags: []
+user_id: arunshukla

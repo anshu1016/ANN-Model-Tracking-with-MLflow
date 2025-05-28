@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/087fad417a524754a1407a285f52ef49/artifacts
+end_time: 1748424646625
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 087fad417a524754a1407a285f52ef49
+run_name: able-moth-204
+run_uuid: 087fad417a524754a1407a285f52ef49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748424644053
+status: 4
+tags: []
+user_id: arunshukla

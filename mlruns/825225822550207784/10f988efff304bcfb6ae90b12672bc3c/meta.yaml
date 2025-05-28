@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/10f988efff304bcfb6ae90b12672bc3c/artifacts
+end_time: 1748424646629
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 10f988efff304bcfb6ae90b12672bc3c
+run_name: rumbling-croc-803
+run_uuid: 10f988efff304bcfb6ae90b12672bc3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748424643803
+status: 4
+tags: []
+user_id: arunshukla

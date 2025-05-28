@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/17c409ef10724453be950d1bafe4d5e3/artifacts
+end_time: 1748423959677
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 17c409ef10724453be950d1bafe4d5e3
+run_name: nervous-sponge-310
+run_uuid: 17c409ef10724453be950d1bafe4d5e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748423957070
+status: 4
+tags: []
+user_id: arunshukla

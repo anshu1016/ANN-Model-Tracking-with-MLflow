@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/fd1e08f155b540bc8678611aed2efb48/artifacts
+end_time: 1748433793851
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: fd1e08f155b540bc8678611aed2efb48
+run_name: whimsical-sponge-112
+run_uuid: fd1e08f155b540bc8678611aed2efb48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433784996
+status: 3
+tags: []
+user_id: arunshukla

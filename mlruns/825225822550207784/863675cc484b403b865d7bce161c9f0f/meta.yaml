@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/863675cc484b403b865d7bce161c9f0f/artifacts
+end_time: 1748433197382
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 863675cc484b403b865d7bce161c9f0f
+run_name: incongruous-swan-468
+run_uuid: 863675cc484b403b865d7bce161c9f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433194035
+status: 3
+tags: []
+user_id: arunshukla

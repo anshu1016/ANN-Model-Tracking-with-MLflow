@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/a258a22add6a4bfb84766094371e448e/artifacts
+end_time: 1748422007710
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: a258a22add6a4bfb84766094371e448e
+run_name: nebulous-sheep-495
+run_uuid: a258a22add6a4bfb84766094371e448e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748422006769
+status: 4
+tags: []
+user_id: arunshukla

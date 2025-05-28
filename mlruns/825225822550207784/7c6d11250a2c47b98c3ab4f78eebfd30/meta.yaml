@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/7c6d11250a2c47b98c3ab4f78eebfd30/artifacts
+end_time: 1748423511890
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 7c6d11250a2c47b98c3ab4f78eebfd30
+run_name: bustling-lark-672
+run_uuid: 7c6d11250a2c47b98c3ab4f78eebfd30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748423508441
+status: 4
+tags: []
+user_id: arunshukla

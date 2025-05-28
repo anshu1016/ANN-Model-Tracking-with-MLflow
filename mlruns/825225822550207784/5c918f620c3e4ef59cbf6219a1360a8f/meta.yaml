@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/5c918f620c3e4ef59cbf6219a1360a8f/artifacts
+end_time: 1748422153848
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 5c918f620c3e4ef59cbf6219a1360a8f
+run_name: upset-crab-227
+run_uuid: 5c918f620c3e4ef59cbf6219a1360a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748422153697
+status: 4
+tags: []
+user_id: arunshukla

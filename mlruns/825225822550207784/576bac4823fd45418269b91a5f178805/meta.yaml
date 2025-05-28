@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/576bac4823fd45418269b91a5f178805/artifacts
+end_time: 1748424110652
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 576bac4823fd45418269b91a5f178805
+run_name: sincere-squirrel-192
+run_uuid: 576bac4823fd45418269b91a5f178805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748424110547
+status: 4
+tags: []
+user_id: arunshukla

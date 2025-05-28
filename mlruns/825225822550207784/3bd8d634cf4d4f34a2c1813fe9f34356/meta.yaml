@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/3bd8d634cf4d4f34a2c1813fe9f34356/artifacts
+end_time: 1748423289154
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 3bd8d634cf4d4f34a2c1813fe9f34356
+run_name: gifted-slug-440
+run_uuid: 3bd8d634cf4d4f34a2c1813fe9f34356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748423286088
+status: 4
+tags: []
+user_id: arunshukla

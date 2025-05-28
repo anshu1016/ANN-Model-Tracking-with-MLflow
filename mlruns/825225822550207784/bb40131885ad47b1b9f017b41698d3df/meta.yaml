@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/bb40131885ad47b1b9f017b41698d3df/artifacts
+end_time: 1748433979245
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: bb40131885ad47b1b9f017b41698d3df
+run_name: overjoyed-croc-125
+run_uuid: bb40131885ad47b1b9f017b41698d3df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433976693
+status: 3
+tags: []
+user_id: arunshukla

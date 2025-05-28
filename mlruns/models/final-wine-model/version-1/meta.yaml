@@ -1,0 +1,12 @@
+creation_timestamp: 1748434204864
+current_stage: None
+description: ''
+last_updated_timestamp: 1748434204864
+name: final-wine-model
+run_id: 42bcb7472e504873a59e87aee7d514e2
+run_link: ''
+source: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/42bcb7472e504873a59e87aee7d514e2/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

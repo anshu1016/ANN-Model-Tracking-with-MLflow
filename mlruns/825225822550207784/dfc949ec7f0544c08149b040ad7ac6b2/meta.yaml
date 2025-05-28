@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/dfc949ec7f0544c08149b040ad7ac6b2/artifacts
+end_time: 1748422046461
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: dfc949ec7f0544c08149b040ad7ac6b2
+run_name: omniscient-bug-940
+run_uuid: dfc949ec7f0544c08149b040ad7ac6b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748422046331
+status: 4
+tags: []
+user_id: arunshukla

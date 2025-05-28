@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/69d66647ba794741a9cd79f3a0f4bbc9/artifacts
+end_time: 1748423511876
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 69d66647ba794741a9cd79f3a0f4bbc9
+run_name: fun-ram-444
+run_uuid: 69d66647ba794741a9cd79f3a0f4bbc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748423508736
+status: 4
+tags: []
+user_id: arunshukla

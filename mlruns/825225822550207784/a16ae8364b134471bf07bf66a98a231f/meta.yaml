@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/a16ae8364b134471bf07bf66a98a231f/artifacts
+end_time: 1748424727647
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: a16ae8364b134471bf07bf66a98a231f
+run_name: marvelous-colt-680
+run_uuid: a16ae8364b134471bf07bf66a98a231f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748424725274
+status: 4
+tags: []
+user_id: arunshukla

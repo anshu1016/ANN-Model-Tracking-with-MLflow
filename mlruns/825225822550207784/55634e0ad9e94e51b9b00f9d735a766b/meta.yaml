@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/55634e0ad9e94e51b9b00f9d735a766b/artifacts
+end_time: 1748433986764
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 55634e0ad9e94e51b9b00f9d735a766b
+run_name: bold-conch-497
+run_uuid: 55634e0ad9e94e51b9b00f9d735a766b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433982444
+status: 3
+tags: []
+user_id: arunshukla

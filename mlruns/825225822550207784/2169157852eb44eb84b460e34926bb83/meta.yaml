@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/2169157852eb44eb84b460e34926bb83/artifacts
+end_time: 1748422367210
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 2169157852eb44eb84b460e34926bb83
+run_name: bittersweet-pug-441
+run_uuid: 2169157852eb44eb84b460e34926bb83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748422364152
+status: 4
+tags: []
+user_id: arunshukla

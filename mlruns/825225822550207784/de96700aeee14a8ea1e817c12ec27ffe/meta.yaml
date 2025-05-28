@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/de96700aeee14a8ea1e817c12ec27ffe/artifacts
+end_time: 1748433842983
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: de96700aeee14a8ea1e817c12ec27ffe
+run_name: bold-snail-382
+run_uuid: de96700aeee14a8ea1e817c12ec27ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748433771778
+status: 3
+tags: []
+user_id: arunshukla

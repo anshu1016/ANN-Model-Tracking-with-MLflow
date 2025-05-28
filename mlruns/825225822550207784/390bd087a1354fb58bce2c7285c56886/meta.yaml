@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/390bd087a1354fb58bce2c7285c56886/artifacts
+end_time: 1748423976117
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 390bd087a1354fb58bce2c7285c56886
+run_name: enthused-wasp-598
+run_uuid: 390bd087a1354fb58bce2c7285c56886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748423971681
+status: 4
+tags: []
+user_id: arunshukla

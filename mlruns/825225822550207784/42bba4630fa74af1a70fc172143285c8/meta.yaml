@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/arunshukla/OneDrive%20-%20Nagarro/Desktop/MLOps_Udemy/MLFlow_Starter/2-DLMLFow/mlruns/825225822550207784/42bba4630fa74af1a70fc172143285c8/artifacts
+end_time: 1748422497017
+entry_point_name: ''
+experiment_id: '825225822550207784'
+lifecycle_stage: active
+run_id: 42bba4630fa74af1a70fc172143285c8
+run_name: ambitious-elk-305
+run_uuid: 42bba4630fa74af1a70fc172143285c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748422494579
+status: 4
+tags: []
+user_id: arunshukla
