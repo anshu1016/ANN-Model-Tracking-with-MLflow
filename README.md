@@ -69,17 +69,20 @@ Predict the quality score of white wine based on its physicochemical features us
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-> Add screenshots of MLflow UI, parameter tuning, loss curves, etc.
+> ![alt text](image.png)
 
----
+> ![alt text](image-1.png)
+
+> ![alt text](image-2.png)
 
 ## 🧑‍💻 Author
 
 **Arun Shukla**
-Frontend Engineer | ML Explorer | AZ-900 Certified
-GitHub: [@yourusername](https://github.com/yourusername)
+- Frontend Engineer | ML Explorer | AZ-900 Certified
+
+- GitHub: [@anshu1016](https://github.com/anshu1016)
 
 ---
 
